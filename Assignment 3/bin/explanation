@@ -1,0 +1,33 @@
+1) Bubble Sort test: 
+
+Array of 10 elements: 
+Moves: 45
+Time: 6716
+
+Array of 2700 elements:
+Moves: 7623
+Time: 377679
+
+2) Selection Sort test:  
+
+Array of 10 elements: 
+Moves: 9
+Time: 7506
+
+Array of 2700 elements:
+Moves: 99
+Time: 97185
+
+3) Merge Sort test: 
+
+Array of 10 elements: 
+Moves: 20
+Time: 13433
+
+Array of 2700 elements: 
+Moves: 548
+Time: 45827
+
+1) We can see that Bubble Sort takes a lot of moves to sort and hence is inefficient when it comes to longer size of arrays.
+2) Selection sort takes the least amount of moves to sort items in a longer array.
+3) Merge Sort takes a reasonable amount of moves for any length of array and also takes a reasonable amount of time for each, but not to forget that it uses up a lot of memory space. 
