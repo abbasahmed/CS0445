@@ -1,3 +1,5 @@
+Name: Abbas Ahmed
+
 Q1) Why do we implement hashCode on individual objects, instead of centrally? 
  For example, why don't we create a new class that implements hashCode for different objects, or implement hashing functions in the hash table itself?
 
